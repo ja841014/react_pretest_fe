@@ -1,4 +1,7 @@
-# open terminal
+# git clone to your local folder
+## git clone git@github.com:ja841014/react_pretest_fe.git
+
+# open terminal and go to your target folder
 
 # install dependency
 ## npm install
